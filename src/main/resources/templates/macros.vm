@@ -1,0 +1,5 @@
+#macro(MANAGER_PC)
+	$env.appUrl;
+#end
+
+
